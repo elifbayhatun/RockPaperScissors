@@ -1,2 +1,2 @@
-Rock paper scissors
 # RockPaperScissors
+https://github.com/elifbayhatun/RockPaperScissors/blob/main/Screen.gif
